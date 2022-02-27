@@ -13,9 +13,6 @@
   ## Usage
   run node index.js
   
-  ## Description
-  [Wacth the video ](https://user-images.githubusercontent.com/86085362/153955903-4a134cfb-f3e5-4815-9bd0-3ea92b1e84ea.mp4)
-  
   <a name="contact"></a>
   ## Questions
   Contact for questions and suggestions:
