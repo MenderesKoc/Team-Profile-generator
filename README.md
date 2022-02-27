@@ -10,8 +10,10 @@
   npm i, intall inquirer, install jest, open index.js
   
   <a name="usage"></a>
+  
   ## Usage
-  run node index.js
+  
+  https://user-images.githubusercontent.com/86085362/155867520-b0aac32f-539b-4d97-baca-ae7179f56a3a.mp4
   
   <a name="contact"></a>
   ## Questions
@@ -22,3 +24,6 @@
   [email](mailto:mndrs.kc@gmail.com)
 
   [GitHub](https://github.com/mendereskoc)
+
+
+
