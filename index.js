@@ -1,4 +1,3 @@
-// link to page creation
 const generateHTML = require('./src/generateHTML');
 
 // team profiles
@@ -91,7 +90,7 @@ const addEmployee = () => {
             type: 'list',
             name: 'role',
             message: "Please choose your employee's role",
-            choices: ['Engineer', 'Intern', 'Manager']
+            choices: ['Engineer', 'Intern',]
         },
         {
             type: 'input',
@@ -167,7 +166,6 @@ const addEmployee = () => {
         }
     ])
         .then(employeeData => {
-            // data for employee types 
 
             let { name, id, email, role, github, school, confirmAddEmployee } = employeeData;
             let employee;
@@ -195,10 +193,10 @@ const addEmployee = () => {
 };
 
 
-// function to generate HTML page file using file system 
+
 const writeFile = data => {
     fs.writeFile('./dist/index.html', data, err => {
-        // if there is an error 
+
         if (err) {
             console.log(err);
             return;
