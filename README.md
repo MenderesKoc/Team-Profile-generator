@@ -3,10 +3,6 @@
   ## License
   ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
   
-  MIT
-  
-  [Full license information]("MIT").
-  
   <a name="installation"></a>
   ## Installation
   npm i, install inquirer, install jest, open index.js
