@@ -7,9 +7,9 @@ MIT
 [Full license information]("MIT").
 
 # Description
-
+```
 This project allow people to create a portfolio without using the browser.you don't have to run it through the browser, it reduces runtime for users. In addition, it allows JavaScript to run both client-side (front-end) and server-side (back-end) applications, making the app more versitile then running it in the browser.
-
+```
 ## Installation
 ```
 - Clone the repo
@@ -20,9 +20,9 @@ This project allow people to create a portfolio without using the browser.you do
 - run npm "node index"
 ```
   ## Usage
-
+```
   https://user-images.githubusercontent.com/86085362/155867520-b0aac32f-539b-4d97-baca-ae7179f56a3a.mp4
-
+```
 ## Questions
 
 Contact for questions and suggestions:
